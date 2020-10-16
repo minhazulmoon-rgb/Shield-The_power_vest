@@ -1,0 +1,115 @@
+/* carousel starts */
+/* body{
+    /* font-family: 'Baloo Bhai 2', cursive; */
+
+header .carousel-inner .item{
+    height: 100vh;
+}
+.carousel-caption{
+    padding-bottom: 250px;
+}
+.carousel-caption h2{
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.carousel-control.right{
+    background-image: none;
+}
+.carousel-control.left{
+    background-image: none;
+}
+/* carousel ends */
+
+
+
+
+/* animated header starts */
+.animateHeader{
+    animation: backInDown;
+    animation-duration: 2s;
+}
+
+.shortheader{
+    animation: backInUp;
+    animation-duration: 2s;
+}
+
+/* animated header ends */
+
+/* how we work starts */
+.howe{
+    margin: 25px;
+    padding: 40px;
+}
+.headerhowe{
+    text-align: center;
+      font-family: 'Baloo Bhai 2', cursive;  
+     font-weight: bold;
+    font-size: 50px;
+    color: blueviolet;
+}
+.parahowe{
+    text-align: center;
+    margin: 30px;
+    font-size: 25px;
+    
+}
+#para{
+    text-align: center;
+    margin: 30px;
+    font-size: 25px;
+}
+#btn{
+    display: block;
+    margin: auto;
+    background-color: #63bbf2;
+    color: white;
+    font-size: 20px;
+}
+/* how we work ends */
+
+/* download app now starts */
+.btn-store {
+    color: #777777;
+    min-width: 254px;
+    padding: 12px 20px !important;
+    border-color: #dddddd !important;
+  }
+  
+  .btn-store:focus, 
+  .btn-store:hover {
+    color: #ffffff !important;
+    background-color: #168eea;
+    border-color: #168eea !important;
+  }
+  
+  .btn-store .btn-label, 
+  .btn-store .btn-caption {
+    display: block;
+    text-align: left;
+    line-height: 1;
+  }
+  
+  .btn-store .btn-caption {
+    font-size: 24px;
+  }
+  
+/* download app now ends */
+
+/* policy button starts */
+.subsbutton{
+    display: flex;
+}
+.infobtn{
+    margin: auto;
+}
+/* policy button endss */
+.policyimgs{
+    display: flex;
+   
+}
+#plc{
+    margin: auto;
+    padding: 25px;
+}
